@@ -1,4 +1,4 @@
-Esse projeto de automação tem como objetico:
+Esse projeto de automação tem como objetivo:
 - Acessar um site de gestão empresarial
 - Navegar até uma fatura específica
 - Salvar essa fatura em PDF
